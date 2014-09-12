@@ -1,0 +1,7 @@
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.idb
+*.manifest
+*.rc
+*.res

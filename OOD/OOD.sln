@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.3节", "3.3节\3.3节.vcxproj", "{1D0A94F9-8D83-43AA-AE87-7E22E5212456}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.4节", "3.4节\3.4节.vcxproj", "{D14B4D44-E926-40B1-82DA-4AA31A12AD34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D0A94F9-8D83-43AA-AE87-7E22E5212456}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D0A94F9-8D83-43AA-AE87-7E22E5212456}.Debug|Win32.Build.0 = Debug|Win32
+		{1D0A94F9-8D83-43AA-AE87-7E22E5212456}.Release|Win32.ActiveCfg = Release|Win32
+		{1D0A94F9-8D83-43AA-AE87-7E22E5212456}.Release|Win32.Build.0 = Release|Win32
+		{D14B4D44-E926-40B1-82DA-4AA31A12AD34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D14B4D44-E926-40B1-82DA-4AA31A12AD34}.Debug|Win32.Build.0 = Debug|Win32
+		{D14B4D44-E926-40B1-82DA-4AA31A12AD34}.Release|Win32.ActiveCfg = Release|Win32
+		{D14B4D44-E926-40B1-82DA-4AA31A12AD34}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
